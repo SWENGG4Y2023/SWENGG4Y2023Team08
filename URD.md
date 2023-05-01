@@ -13,19 +13,19 @@ The user should be able to have a natural conversation with ChatGPT. The system 
 The user expects ChatGPT to provide accurate information. The system should be able to understand user queries and provide relevant and accurate responses. The system should also be able to identify and correct any errors or misunderstandings.
 
 2.3. Personalization
-The user should be able to personalize their conversation with ChatGPT. The system should be able to remember previous conversations and user preferences, and use that information to provide a more personalized experience.
+With ChatGPT, the user ought to be able to customise their conversation. In order to deliver a more specialised experience, the system should be able to recall previous discussions and user preferences.
 
 2.4. Multilingual Support
 The user should be able to converse with ChatGPT in multiple languages. The system should be able to recognize and understand queries in different languages and respond with relevant answers.
 
 2.5. Ease of Use
-The user should be able to use ChatGPT easily without any technical knowledge. The system should have a simple and intuitive user interface that makes it easy for users to interact with the system.
+Without any technological expertise, the user ought to be able to utilise ChatGPT with ease. Users should be able to interact with the system easily thanks to the user interface's clarity and intuitiveness.
 
 3. System Requirements
 The following are the system requirements for the ChatGPT project:
 
 3.1. Natural Language Processing (NLP)
-The system should use NLP techniques to understand and respond to user queries. The system should be able to identify the intent behind user queries and provide relevant responses.
+To comprehend and answer to user inquiries, the system ought to apply NLP approaches. The system need to be able to determine the purpose of user inquiries and offer pertinent solutions.
 
 3.2. Machine Learning (ML)
 The system should use ML algorithms to improve its accuracy and personalization. The system should be able to learn from user interactions and use that information to provide better responses in the future.
