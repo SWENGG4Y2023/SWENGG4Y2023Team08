@@ -1,3 +1,5 @@
+Software Requirement Specification (SRS) is a document that outlines the functional and non-functional requirements for a software project. Here's a detailed SRS for the ChatGPT project:
+
 1. Introduction
 
    1.1. Purpose
