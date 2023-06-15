@@ -1,0 +1,11 @@
+@startuml
+!theme mars
+object "External User" as EU
+object "Chat Interface" as CI
+object "Chat GPT" as cgpt
+object "External Systems" as ES
+
+CI <|-- EU
+cgpt <|-- CI
+ES <|-- cgpt
+@enduml
