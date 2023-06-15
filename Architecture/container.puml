@@ -1,0 +1,15 @@
+@startuml
+object "External Systems" as CI
+object "Chat GPT Container" as cgpt
+object "External Systems" as ES
+
+cgpt : Natural Language Understanding (NLU)
+cgpt : Context Manager
+cgpt : Transeformer Decoder
+cgpt : Input/Output Adapters
+
+
+
+cgpt <|-- CI
+ES <|-- cgpt
+@enduml
